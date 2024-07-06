@@ -6,6 +6,7 @@ const asyncHandler = (reqHandler) => {
 
 
 export {asyncHandler}
+
 // const asyncHandler = () => {}
 // const asyncHandler = (fn) => () => {}
 // const asyncHandler = (fn) => async() => {}
